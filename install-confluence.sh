@@ -22,7 +22,7 @@ confluence_db=confluence_db
 ssl_crt="localhost.crt"
 ssl_key="localhost.key"
 #to access from outside change this to public address. e.g. confluence.yourdomain.com
-server_add="localhost"
+server_add="144.217.136.249"
 http_port="8090"
 control_port="8000"
 #Confluence server version that you want to install.
