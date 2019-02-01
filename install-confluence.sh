@@ -19,8 +19,8 @@ confluence_db=confluence_db
 #I assume you have created them and have them in below addresses:"
 #Default location: certificate file: /etc/pki/tls/certs/your_cert_file.crt"
 #Default location: certificate key file: /etc/pki/tls/private/your_private_key_file.key"
-ssl_crt="localhost.crt"
-ssl_key="localhost.key"
+ssl_crt="144.217.136.249.crt"
+ssl_key="144.217.136.249.key"
 #to access from outside change this to public address. e.g. confluence.yourdomain.com
 server_add="144.217.136.249"
 http_port="8090"
